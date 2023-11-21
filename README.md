@@ -4,7 +4,7 @@ Olá, eu sou Emerson 👨‍💻
 
 - 🎵 Apaixonado por música e tecnologia 🎧
 - 📽️ Interessado em audiovisual e cinematografia 🎥
-- 💻 Atualmente, estou focado em aprender e praticar Python com ferramentas de backend, API, banco de dados e IA 🚀
+- 💻 Atualmente, estou focado em praticar Python com ferramentas de backend, API, banco de dados e IA 🚀
 - 👨‍🔬 Estou constantemente explorando e aprimorando minhas habilidades técnicas e criativas 💡
 - 💼 Estou aberto a colaborações em projetos 🤝
 
