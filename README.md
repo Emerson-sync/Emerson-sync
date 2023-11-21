@@ -10,7 +10,7 @@ Olá, eu sou Emerson 👨‍💻
 
 ## Minhas habilidades e interesses
 
-- 👩‍💻 Desenvolvimento de backend e APIs
+- 👩‍💻 Desenvolvimento backend e APIs
 - 📊 Manipulação de dados e banco de dados
 - 🤖 Inteligência Artificial e Aprendizado de Máquina
 
